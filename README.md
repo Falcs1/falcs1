@@ -1,7 +1,7 @@
 # falcs1
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b3/da/bc/b3dabc47f66ffd2d4830f5a3e440e5f1.gif" />
+  <img src="https://i.pinimg.com/originals/b3/da/bc/b3dabc47f66ffd2d4830f5a3e440e5f1.gif" width="100%" />
 </p>
 
 ---
