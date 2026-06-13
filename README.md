@@ -35,5 +35,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### 🔗 EXTERNAL_UPLINK
-* **Bio:** [(https://fakecrime.bio/o93d)]
+
